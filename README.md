@@ -19,7 +19,7 @@ TAVE **"모험과 CV의 나라"** 스터디 실습 코드 올리는 Repository �
 
 ## 🧑‍💻 Team Members
 
-| Name         | Role                  | Profile Image |
+| Name         | Profile Image |
 |--------------|-----------------------|----------------|
 |Kim chaeyeon  | ![Chaeyeon](https://via.placeholder.com/60) |
 |            |          |
