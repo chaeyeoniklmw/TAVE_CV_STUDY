@@ -5,8 +5,8 @@ TAVE **"모험과 CV의 나라"** 스터디 실습 코드 올리는 Repository �
 ##  스터디 교재
 > **이미지 처리 바이블**
 >
-> 
-> https://product.kyobobook.co.kr/detail/S000213080089
+> ![Book Cover](https://contents.kyobobook.co.kr/sih/fit-in/400x0/pdt/9791140709397.jpg)
+>
 >
 
 ## 📅 스터디 커리큘럼
