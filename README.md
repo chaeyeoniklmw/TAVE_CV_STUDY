@@ -2,10 +2,10 @@
 
 TAVE **"모험과 CV의 나라"** 스터디 실습 코드 올리는 Repository 입니다.
 
-##  스터디 교재
+## 📘 스터디 교재
 > **이미지 처리 바이블**
 >
-> ![Book Cover](https://contents.kyobobook.co.kr/sih/fit-in/400x0/pdt/9791140709397.jpg)
+> <img src="https://contents.kyobobook.co.kr/sih/fit-in/400x0/pdt/9791140709397.jpg" alt="Book Cover" width="200"/>
 >
 >
 
